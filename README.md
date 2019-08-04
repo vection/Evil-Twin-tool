@@ -10,6 +10,7 @@ Our victim will think he is fine and have full access to interenet but he doesn'
 From here, you can do alot of things - for example to add bitcoin miner to each request, find a way to make client 
 download malicious script and get full access to his computer and so on..
 
+The tool also supports deauth attack (more explained in repository WiFi-Deauthentication-attack-tool)
 
 The attack following by few steps:
 #### 1.	Scanning the area, searching for wifi access
