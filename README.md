@@ -1,4 +1,4 @@
-# Evil-Twin-tool
+# Evil Twin tool
 Disclaimer. This tool is for informational and educational purposes only.
 
 ## Introduction
