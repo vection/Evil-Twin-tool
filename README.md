@@ -4,6 +4,13 @@ Disclaimer. This tool is for informational and educational purposes only.
 ## Introduction
 
 The main goal of the tool is to perform MITM attack. The "victims" can be any AP around (Wifi access point). 
+Also the mission was besides attack also defence against this attack.
+This tool is mainly target open public wifi networks. 
+Our victim will think he is fine and have full access to interenet but he doesn't he logged in malicious hotspot.
+From here, you can do alot of things - for example to add bitcoin miner to each request, find a way to make client 
+download malicious script and get full access to his computer and so on..
+
+
 The attack following by few steps:
 #### 1.	Scanning the area, searching for wifi access
 #### 2.	Selecting which wifi we want to attack
