@@ -2,6 +2,7 @@
 Disclaimer. This tool is for informational and educational purposes only.
 
 ## Introduction
+Tested in kali linux 2019.b
 
 The main goal of the tool is to perform MITM attack. The "victims" can be any AP around (Wifi access point). 
 Also the mission was besides attack also defence against this attack.
