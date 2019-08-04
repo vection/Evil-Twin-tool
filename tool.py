@@ -3,13 +3,10 @@ import string
 import threading
 import os, time
 import random
-import configparser
 import subprocess
 from threading import *
 import socket
 import defence
-import collections
-import struct
 from PyAccessPoint import pyaccesspoint # might work with just import pyaccesspoint without install full library
 
 
