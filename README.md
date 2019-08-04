@@ -1,6 +1,8 @@
 # Evil Twin tool
 Disclaimer. This tool is for informational and educational purposes only.
+
 Tested in kali linux 2019.b
+
 python 2.7
 
 ## Introduction
